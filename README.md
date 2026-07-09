@@ -1,6 +1,5 @@
 # Isolation and Purification of Recombinant Protein
 
-**Group 1:** Akshaya · Sunandini · Srihari · Sabareesh · Subitcha
 
 ## Overview
 
